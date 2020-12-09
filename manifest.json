@@ -4,8 +4,7 @@
   "theme_color": "#9021f3",
   "background_color": "#9021f3",
   "display": "standalone",
-  "scope": "/pvp/client/",
-  "start_url": "/index.html",
+  "start_url": "/PVP/index.html",
   "serviceworker": {
   "src": "/pvp/sw.js",
   "scope": "/pvp/",
