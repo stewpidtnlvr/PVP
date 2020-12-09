@@ -1,13 +1,12 @@
 {
-  "name": "PVP",
-  "short_name": "PVP",
+  "name": "PvP",
+  "short_name": "PvP",
   "theme_color": "#9021f3",
   "background_color": "#9021f3",
   "display": "standalone",
   "start_url": "/PVP/index.html",
   "serviceworker": {
-  "src": "/pvp/sw.js",
-  "scope": "/pvp/",
+  "src": "/PVP/pwabuilder-sw.js",
   "type": "",
   "update_via_cache": "none"
 }
